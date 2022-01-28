@@ -3,7 +3,6 @@ logo: /assets/img/Photo_Aarushi.jpeg
 
 description:
   <p align="center">
-  <a href="/assets/Resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/aarushi-gupta-63494b21b/">LinkedIn</a> |
   <a href="https://github.com/Aarushi17Gupta">GitHub</a>
   
@@ -12,5 +11,7 @@ description:
   I am eager to leverage machine learning and data manipulation techniques to extract meaningful insights, make informed decisions, and solve challenging real-life problems.
   <br>
   </p>
+
+
 
 theme: jekyll-theme-minimal
