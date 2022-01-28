@@ -1,123 +1,40 @@
+# Data Science Portfolio
 ---
-layout: default
+## Machine Learning
+## Artificial Intelligence
+
+### 1. Recommendation System Deployment Through Streamlit
+
+A General purpose Recommender System that can recommend any items such as Movies, Receipes, Books and MOOCs. Used cosine similarity, TF-IDF Vectorization and K Nearest Neighbours to recommend top items from a list of large items. At the end, deployed the machine learning model using Streamlit Sharing to create a Recommender System application.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/Recommender-System-deployment-using-Streamlit)
+
+<center><img src="assets/img/recommendation.png"/></center>
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### 2. Twitter Sentiment Analysis
 
-[Link to another page](./another-page.html).
+Used sentiment analysis to analyze the tweets and segregate them into various segments like positive, negative and neutral tweets with a model accuracy of 82%.
 
-There should be whitespace between paragraphs.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/Twitter_Sentiment_Analysis)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<center><img src="assets/img/twitter.jpeg"/></center>
+---
 
-# Header 1
+### 3. Yelp Reviews Sentiment Analysis
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Used EDA Augmentation and various algorithms such as Random Forest classifier, Logistic Regression, XGBoost, Naive Bayes and Support Vector Machine (SVD) for comparing accuracies and other evaluation metrics.
 
-## Header 2
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/Yelp_Reviews_Sentiment_Analysis)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<center><img src="assets/img/yelp.png"/></center>
+---
 
-### Header 3
+### 4. Document Similarity Measures
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Measured similarity between text documents by treating the text the words in the documents as vectors and using various similarity measures such as FuzzyWuzzy, Cosine Similarity and Jaccard Similarity.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/Document_Similarity_Measures)
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<center><img src="assets/img/doc_similarity.png"/></center>
+---
