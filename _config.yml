@@ -3,24 +3,13 @@ logo: /assets/img/Photo_Aarushi.jpeg
 
 tagline: Data Analysis, Data Science, Machine Learning, Artificial Intelligence  # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description:                        
     I am an aspiring data scientist eager to leverage machine learning and data manipulation techniques to extract meaningful insights, make informed decisions, and solve challenging real-life problems.
-# fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-#url: 'https://wrongbaud.github.io'
 
-#author: wrongbaud                  # change to your full name
 
-#avatar: https://i2.wp.com/wasistdas.co.uk/Owlsploitation/wp-content/uploads/2011/05/bubo2.jpg   # support internet resources
-
-#github:
-  #username: wrongbaud             # change to your github username
-
-#twitter:
-  #username: wrongbaud            # change to your twitter username
 
 social:
-  #name: wrongbaud                  # it will shows as the copyright owner in Footer
-  #email: wrongbaud@gmail.com             # change to your email address
+  
   links:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/aarushi-gupta-63494b21b/      # change to your twitter homepage
