@@ -11,9 +11,5 @@ description:
 social:
   
   links:
-    # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/aarushi-gupta-63494b21b/      # change to your twitter homepage
-    - https://github.com/Aarushi17Gupta       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/aarushi-gupta-63494b21b/      
+    - https://github.com/Aarushi17Gupta      
