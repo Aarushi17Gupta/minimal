@@ -4,6 +4,7 @@ description: I am an aspiring data scientist eager to leverage machine learning 
 show_downloads: false
 #google_analytics:
 color-scheme: auto
+
 sidebar:
   - name: Google Scholar
     icon: fa-solid fa-user-graduate
@@ -18,4 +19,4 @@ sidebar:
     icon: fa-solid fa-pen
     #link:
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
