@@ -1,9 +1,18 @@
 # Data Science Portfolio
 ---
-## Machine Learning
-## Artificial Intelligence
+## Machine Learning, Artificial Intelligence, Data Science, Data Analysis, Deep Learning
 
-### 1. Recommendation System Deployment Through Streamlit
+### Exploratory Data Analysis on LendingClub Case Study
+
+The data given contains information about past loan applicants and whether they ‘defaulted’ or not.
+The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. through Exploratory Data Analysis (EDA) . Thus, we have to understand how consumer attributes and loan attributes influence the tendency of default.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/LendingClubCaseStudy)
+
+<center><img src="assets/img/lending club.jpg"/></center>
+---
+
+### Recommendation System Deployment Through Streamlit
 
 A General purpose Recommender System that can recommend any items such as Movies, Receipes, Books and MOOCs. Used cosine similarity, TF-IDF Vectorization and K Nearest Neighbours to recommend top items from a list of large items. At the end, deployed the machine learning model using Streamlit Sharing to create a Recommender System application.
 
@@ -12,7 +21,7 @@ A General purpose Recommender System that can recommend any items such as Movies
 <center><img src="assets/img/recommendation.png"/></center>
 ---
 
-### 2. Twitter Sentiment Analysis
+### Twitter Sentiment Analysis
 
 Used sentiment analysis to analyze the tweets and segregate them into various segments like positive, negative and neutral tweets with a model accuracy of 82%.
 
@@ -21,7 +30,7 @@ Used sentiment analysis to analyze the tweets and segregate them into various se
 <center><img src="assets/img/twitter.jpeg"/></center>
 ---
 
-### 3. Yelp Reviews Sentiment Analysis
+### Yelp Reviews Sentiment Analysis
 
 Used EDA Augmentation and various algorithms such as Random Forest classifier, Logistic Regression, XGBoost, Naive Bayes and Support Vector Machine (SVD) for comparing accuracies and other evaluation metrics.
 
@@ -30,7 +39,7 @@ Used EDA Augmentation and various algorithms such as Random Forest classifier, L
 <center><img src="assets/img/yelp.png"/></center>
 ---
 
-### 4. Document Similarity Measures
+### Document Similarity Measures
 
 Measured similarity between text documents by treating the text the words in the documents as vectors and using various similarity measures such as FuzzyWuzzy, Cosine Similarity and Jaccard Similarity.
 
