@@ -2,7 +2,7 @@
 ---
 ## Machine Learning, Artificial Intelligence, Data Science, Data Analysis, Deep Learning
 
-### Analysis of Mortgage Backed Securities Prepayment Ability
+### Analysis of Mortgage-Backed Securities Prepayment Ability
 
 A Machine Learning Project that can predict whether the customer will default the loan or not. The primary dataset is Feddie Mac's Single Family Loan-Level Dataset.This dataset contains approximately 500,000 mortgages originated between January 1, 1999 and September 30th, 2020. The dataset mainly consists of fixed-rate single family mortgages loans with a maturity of thirty years.
 
