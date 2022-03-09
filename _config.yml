@@ -4,4 +4,6 @@ description: I am an aspiring data scientist eager to leverage machine learning 
 show_downloads: false
 #google_analytics:
 color-scheme: auto
+future: true
+timezone: TIMEZONE
 theme: jekyll-theme-minimal
