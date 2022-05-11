@@ -2,6 +2,17 @@
 ---
 ## Machine Learning, Artificial Intelligence, Data Science, Data Analysis, Deep Learning
 
+### House Price Prediction using Regularization (Ridge and Lasso Regression)
+
+A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
+
+The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/House-Price-Prediction-Advanced-Regression)
+
+<center><img src="assets/img/House_price.png"/></center>
+---
+
 ### Bike Sharing Demand Prediction (Multiple Linear Regression)
 
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic.
@@ -21,7 +32,7 @@ A Machine Learning Project that can predict whether the customer will default th
 <center><img src="assets/img/Mortgage.jpg"/></center>
 ---
 
-### * Exploratory Data Analysis on LendingClub Case Study
+### Exploratory Data Analysis on LendingClub Case Study
 
 The data given contains information about past loan applicants and whether they ‘defaulted’ or not.
 The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. through Exploratory Data Analysis (EDA) . Thus, we have to understand how consumer attributes and loan attributes influence the tendency of default.
