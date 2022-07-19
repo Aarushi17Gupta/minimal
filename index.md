@@ -10,7 +10,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/Melanoma_Detection_Assignment)
 
-<center><img src="assets/img/Churn.png"/></center>
+<center><img src="assets/img/melanoma.jpg"/></center>
 ---
 
 
