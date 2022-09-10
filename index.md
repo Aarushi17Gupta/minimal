@@ -2,6 +2,27 @@
 ---
 ## Machine Learning, Artificial Intelligence, Data Science, Data Analysis, Deep Learning
 
+### DMSP-Particle-Precipitate-Flux-Prediction (Mesoscale)
+
+Problem Statement: We advance the modeling capability of electron particle precipitation from the magnetosphere to the ionosphere through a new database and use of deep learning (DL) tools to gain utility from those data. We create and apply a new framework for space weather model evaluation that culminates previous guidance from across the solar‐terrestrial research community.
+
+The target feature is ELE_TOTAL_ENERGY_FLUX which is a continuous variable. The task is to predict this variable based on the other 154 features step-by-step by going through each day's task. The scoring metric is RMSE or R2 score.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/DMSP-Particle-Precipitate-Flux-Prediction-Mesoscale-)
+
+<center><img src="assets/img/DMSP.jpg"/></center>
+---
+
+### Patient Survival Prediction
+
+Problem Statement: Getting a rapid understanding of the context of a patient’s overall health has been particularly important during the COVID-19 pandemic as healthcare workers around the world struggle with hospitals overloaded by patients in critical condition. Intensive Care Units (ICUs) often lack verified medical histories for incoming patients. A patient in distress or a patient who is brought in confused or unresponsive may not be able to provide information about chronic conditions such as heart disease, injuries, or diabetes. Medical records may take days to transfer, especially for a patient from another medical provider or system. Knowledge about chronic conditions can inform clinical decisions about patient care and ultimately improve patient's survival outcomes.
+
+The target feature is 'hospital_death' which is a binary variable. The task is to classify this variable based on the other 84 features step-by-step by going through each day's task. The scoring metric is Accuracy/Area under ROC curve.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/Patient-Survival-Prediction)
+
+<center><img src="assets/img/Patient_survival.png"/></center>
+---
+
+
 ### Gesture Recognition
 
 Problem statement: As a data scientist at a home electronics company which manufactures state of the art smart televisions. We want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
