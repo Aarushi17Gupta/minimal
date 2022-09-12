@@ -2,7 +2,18 @@
 ---
 ## Machine Learning, Artificial Intelligence, Data Science, Data Analysis, Deep Learning
 
-### DMSP-Particle-Precipitate-Flux-Prediction (Mesoscale)
+### Plant Seedlings Classification
+
+Problem Statement: The Aarhus University Signal Processing group, in collaboration with University of Southern Denmark, has recently released a dataset containing images of approximately 960 unique plants belonging to 12 species at several growth stages.
+
+We are provided with a training set and a test set of images of plant seedlings at various stages of grown. Each image has a filename that is its unique id. The dataset comprises 12 plant species. The goal is to create a classifier capable of determining a plant's species from a photo.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/Plant-Seedling-Image-Classification)
+
+<center><img src="assets/img/Plant.jpg"/></center>
+---
+
+
+### DMSP Particle Precipitate Flux Prediction (Mesoscale)
 
 Problem Statement: We advance the modeling capability of electron particle precipitation from the magnetosphere to the ionosphere through a new database and use of deep learning (DL) tools to gain utility from those data. We create and apply a new framework for space weather model evaluation that culminates previous guidance from across the solar‐terrestrial research community.
 
@@ -11,6 +22,7 @@ The target feature is ELE_TOTAL_ENERGY_FLUX which is a continuous variable. The 
 
 <center><img src="assets/img/DMSP.jpg"/></center>
 ---
+
 
 ### Patient Survival Prediction
 
