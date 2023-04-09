@@ -2,6 +2,18 @@
 ---
 ## Machine Learning, Artificial Intelligence, Data Science, Data Analysis, Deep Learning
 
+### News Recommender System
+
+Problem Statement: iPrint being a cutting-edge company, is trying to solve the issue of revenue leakage by personalising user tastes and introducing new content to its users at the start of the day on the home page of the application. iPrint is planning to assess these recommendations by tracking whether the user clicks on those items or not. 
+
+Data pre-processing, EDA, Recommendation techniques such as User-based collaborative filtering, Item-based collaborative filtering, Content-based filtering, ALS (Alternation Least Squares), Hybrid recommendation system were performed
+Model evaluation - RMSE, MAE, precision@k and global precision@k to assess the overall performance of the recommendation system.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/News-Recommendation-System)
+
+<center><img src="assets/img/news.jpg"/></center>
+---
+
+
 ### Plant Seedlings Classification
 
 Problem Statement: The Aarhus University Signal Processing group, in collaboration with University of Southern Denmark, has recently released a dataset containing images of approximately 960 unique plants belonging to 12 species at several growth stages.
