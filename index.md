@@ -1,6 +1,22 @@
 # Data Science Portfolio
 ---
-## Machine Learning, Artificial Intelligence, Data Science, Data Analysis, Deep Learning
+## Generative AI, Machine Learning, Data Science, Data Analysis, Deep Learning
+
+### Retrieval Augmentated Generation (RAG) Projects
+
+Problem Statement: The GitHub repository RAG_Projects by Aarushi17Gupta contains several sub-projects related to Retrieval-Augmented Generation (RAG). These sub-projects include:
+- Investment_Bank_LLM
+- Medical_LLM
+- Merger_Retriever_LOTR
+- PetCare_AI
+- Pet_Chatbot_LLM
+- haystack_chainlit
+  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Aarushi17Gupta/RAG_Projects)
+
+<center><img src="assets/img/RAG.jpg"/></center>
+---
+
 
 ### News Recommender System
 
